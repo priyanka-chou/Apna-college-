@@ -1,3 +1,4 @@
 # Apna-college-
-This is my first repository.
-author -Priyanka Choudhary 
+This is my first repository .
+<br/>
+author -Priyanka Choudhary .
